@@ -4,7 +4,7 @@ import { FiAward } from "react-icons/fi";
 import { RiCarLine } from "react-icons/ri";
 import appStoreImg from '../../assets/images/appstore.png'
 import playStoreImg from '../../assets/images/playstore.avif'
-import bikeDekhoLogo from '../../assets/images/footer-bdLogo.svg'
+import bikeDekhoLogo from '../../assets/images/bikedekho.svg'
 import ruppyLogo from '../../assets/images/footer-rupyyLogo.svg'
 import zigWheelsLogo from '../../assets/images/footer-zwLogo.svg'
 import insuranceDekhoLogo from '../../assets/images/footer-IdLogo.svg'
